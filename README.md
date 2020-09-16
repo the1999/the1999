@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Onanong Prawong</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **water**
+
 - 🌱 I’m currently learning **Software Enginearing**
 
 - 📫 How to reach me **baitoey.24062542@gmail.com**
