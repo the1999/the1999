@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 ### I'm Toey
+# ![GitHub Logo](/images/01.jpg)
+Format: ![Alt Text](url)
 <!--
 **the1999/the1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
