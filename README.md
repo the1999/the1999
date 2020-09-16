@@ -1,8 +1,7 @@
-# Hi there 👋
-<h1 align="center">Hi 👋, I'm Onanong Prawong</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Toey</h1>
+<h3 align="center">Welcome!</h3>
 
-![image](https://www.facebook.com/photo.php?fbid=907511176442925&set=a.100203950506989&type=3&theater)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🔭 I’m currently working on **water**
 
